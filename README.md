@@ -12,7 +12,7 @@ Before you can run this game, make sure you have the following installed:
 - **Pygame**: Install Pygame by running the following command:
   ```bash
   pip install pygame
-  pip install 
+  pip install ffpyplayer
   ```
 
 ## Setup Instructions
@@ -23,8 +23,8 @@ Before you can run this game, make sure you have the following installed:
      ```
    - Alternatively, download the ZIP file from the GitHub page and extract it.
 
-2. **Extract the `images.zip`**:
-   - Unzip `images.zip` and make sure all the extracted files are placed in the same directory as the other game files.
+2. **Extract the `rest images.zip`**:
+   - Unzip `rest images.zip` and make sure all the extracted files are placed in the same directory as the other game files.
 
 3. **Run the Game**:
    - Navigate to the directory containing all the files.

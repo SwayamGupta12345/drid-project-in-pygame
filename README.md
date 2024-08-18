@@ -35,7 +35,7 @@ Before you can run this game, make sure you have the following installed:
    - If you encounter any issues, ensure all dependencies are properly installed.
 
 ## How to Play
-Check out the included video (`game_proceeding.mp4`) to see a walkthrough of the game. The video will guide you through the different levels and show how the game proceeds.
+Check out the included video (`video.mp4`) to see a walkthrough of the game. The video will guide you through the different levels and show how the game proceeds.
 
 ## Contact
 For any queries, feel free to reach out:

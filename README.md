@@ -19,7 +19,8 @@ Before you can run this game, make sure you have the following installed:
 1. **Download or Clone the Repository**:
    - Clone this repository to your local machine using:
      ```bash
-     git clone https://github.com/your-repo-link.git
+     git clone
+     https://github.com/SwayamGupta12345/drid-project-in-pygame
      ```
    - Alternatively, download the ZIP file from the GitHub page and extract it.
 
@@ -30,7 +31,7 @@ Before you can run this game, make sure you have the following installed:
    - Navigate to the directory containing all the files.
    - Run the game using the following command:
      ```bash
-     python main.py
+     python MATCH MANIA.py
      ```
    - If you encounter any issues, ensure all dependencies are properly installed.
 

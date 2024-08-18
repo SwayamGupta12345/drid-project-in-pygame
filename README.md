@@ -19,8 +19,7 @@ Before you can run this game, make sure you have the following installed:
 1. **Download or Clone the Repository**:
    - Clone this repository to your local machine using:
      ```bash
-     git clone
-https://github.com/SwayamGupta12345/drid-project-in-pygame
+     git clone https://github.com/SwayamGupta12345/drid-project-in-pygame
      ```
    - Alternatively, download the ZIP file from the GitHub page and extract it.
 

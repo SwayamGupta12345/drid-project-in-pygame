@@ -20,12 +20,12 @@ Before you can run this game, make sure you have the following installed:
    - Clone this repository to your local machine using:
      ```bash
      git clone
-     https://github.com/SwayamGupta12345/drid-project-in-pygame
+https://github.com/SwayamGupta12345/drid-project-in-pygame
      ```
    - Alternatively, download the ZIP file from the GitHub page and extract it.
 
-2. **Extract the `rest images.zip` and 'images 1.zip'**:
-   - Unzip `rest images.zip`,'images 1.zip' and make sure all the extracted files are placed in the same directory as the other game files.
+2. **Extract the `rest images.zip` and `images 1.zip`**:
+   - Unzip `rest images.zip`, `images 1.zip` and make sure all the extracted files are placed in the same directory as the other game files.
 
 3. **Run the Game**:
    - Navigate to the directory containing all the files.

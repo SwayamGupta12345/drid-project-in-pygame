@@ -1,5 +1,3 @@
-
-
 # Pygame-Based Game
 
 ## Overview
